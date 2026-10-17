@@ -1,0 +1,22 @@
+# WhoWouldAIHire
+
+> AI visibility reports and fixes for local businesses (plumbing, HVAC, roofing and more). We measure whether ChatGPT, Gemini and Claude recommend a business, then fix why not.
+
+## Key pages
+- [How do I get my business recommended by ChatGPT?](https://whowouldaihire.com/answers/get-recommended-by-chatgpt/)
+- [What is an AI visibility audit for a local business?](https://whowouldaihire.com/answers/ai-visibility-audit-local-business/)
+- [Who can help my plumbing company show up in AI answers?](https://whowouldaihire.com/answers/plumbing-company-ai-answers/)
+- [How do I make my business show up when people ask ChatGPT for a recommendation?](https://whowouldaihire.com/answers/show-up-in-chatgpt-recommendations/)
+- [What are the best AI visibility tools for small businesses?](https://whowouldaihire.com/answers/best-ai-visibility-tools-small-business/)
+- [Is there a service that checks if AI assistants recommend my business?](https://whowouldaihire.com/answers/check-if-ai-assistants-recommend-my-business/)
+- [How do I check if ChatGPT recommends my business?](https://whowouldaihire.com/answers/check-if-chatgpt-recommends-my-business/)
+- [What are generative engine optimization services for small business?](https://whowouldaihire.com/answers/generative-engine-optimization-small-business/)
+- [How much does AI search optimization cost for a local business?](https://whowouldaihire.com/answers/ai-search-optimization-cost/)
+- [My competitor shows up in ChatGPT and I don't. What do I do?](https://whowouldaihire.com/answers/competitor-shows-up-in-chatgpt/)
+- [Who can fix my business's visibility in Gemini and Claude?](https://whowouldaihire.com/answers/visibility-in-gemini-and-claude/)
+- [What is an AI recommendation report for contractors?](https://whowouldaihire.com/answers/ai-recommendation-report-contractors/)
+- [What are the best agencies for getting local businesses into AI answers?](https://whowouldaihire.com/answers/agencies-local-businesses-ai-answers/)
+- [How do I get my HVAC company mentioned by AI assistants?](https://whowouldaihire.com/answers/hvac-company-ai-assistants/)
+- [Is there a free tool to see what AI says about my business?](https://whowouldaihire.com/answers/free-tool-what-ai-says-about-my-business/)
+- [Pricing](https://whowouldaihire.com/pricing/)
+- [How it works](https://whowouldaihire.com/how-it-works/)
