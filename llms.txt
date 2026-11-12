@@ -1,6 +1,6 @@
 # WhoWouldAIHire
 
-> AI visibility reports and fixes for local businesses (plumbing, HVAC, roofing and more). We measure whether ChatGPT, Gemini and Claude recommend a business, then fix why not.
+> AI visibility scores and reports for local businesses (plumbing, HVAC, roofing and more). We measure whether ChatGPT, Gemini, Claude, and Perplexity recommend a business.
 
 ## Key pages
 - [How do I get my business recommended by ChatGPT?](https://whowouldaihire.com/answers/get-recommended-by-chatgpt/)
@@ -18,5 +18,5 @@
 - [What are the best agencies for getting local businesses into AI answers?](https://whowouldaihire.com/answers/agencies-local-businesses-ai-answers/)
 - [How do I get my HVAC company mentioned by AI assistants?](https://whowouldaihire.com/answers/hvac-company-ai-assistants/)
 - [Is there a free tool to see what AI says about my business?](https://whowouldaihire.com/answers/free-tool-what-ai-says-about-my-business/)
-- [Pricing](https://whowouldaihire.com/pricing/): free AI visibility report; AI Visibility Fix $497 one-time (or 3 x $179); Growth $199/month, first 30 days free with the Fix
+- [Pricing](https://whowouldaihire.com/pricing/): free AI visibility score; ChatGPT report $19 one-time; full report (ChatGPT, Gemini, Claude, and Perplexity) $34 one-time; map and action plan $97 one-time, written after a report; monthly re-check $39/month, cancel anytime
 - [How it works](https://whowouldaihire.com/how-it-works/)
