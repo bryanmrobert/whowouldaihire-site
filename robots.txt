@@ -17,10 +17,10 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-User-agent: GrokBot
+User-agent: PerplexityBot
 Allow: /
 
-User-agent: Grok-User
+User-agent: Perplexity-User
 Allow: /
 
 User-agent: Google-Extended
